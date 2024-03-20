@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="State">
+        <item>Telangana</item>
+        <item>Andhra Pradesh</item>
+        <item>Delhi</item>
+        <item>Kerala</item>
+        
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">week4</string>
+    <style name="Base.Theme.Week4" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Week4" parent="Base.Theme.Week4"/>
+</resources>
